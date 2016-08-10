@@ -7,3 +7,6 @@
 Перед сборкой код проверяется с помощью eslint, bithound и запускаются тесты для функции, проверяющей число на простоту.
 
 Тесты находятся в файле [tests/test.js](https://github.com/yuriy-baranov/prime-number-generator/blob/master/tests/test.js)
+
+Включен UptimeRobot. Он показывает отрезки времени, когда сайт не был доступен, считает процент времени, когда он не отвечал и время ответа на запрос в течение дня.
+<img src='https://pp.vk.me/c626325/v626325575/1f4cb/ONYWUv4HELU.jpg' width=600>
