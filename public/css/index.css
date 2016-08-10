@@ -1,0 +1,23 @@
+input {
+    display: block;
+}
+
+.title, .result {
+    text-align: center;
+}
+
+.result {
+    margin-top: 20px;
+}
+
+.controls {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.controls__calc-button {
+    margin: auto;
+    margin-top: 20px;
+}

@@ -1,0 +1,31 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "mocha": "./node_modules/.bin/mocha tests/test.js",
+    "eslint": "./node_modules/.bin/eslint",
+    "test": "npm run eslint . && npm run mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriy-baranov/homework-6.git"
+  },
+  "author": "Yuriy Baranov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriy-baranov/homework-6/issues"
+  },
+  "homepage": "https://github.com/yuriy-baranov/homework-6#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
