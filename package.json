@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuriy-baranov/homework-6.git"
+    "url": "git+https://github.com/yuriy-baranov/prime-number-generator.git"
   },
   "author": "Yuriy Baranov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yuriy-baranov/homework-6/issues"
+    "url": "https://github.com/yuriy-baranov/prime-number-generator/issues"
   },
-  "homepage": "https://github.com/yuriy-baranov/homework-6#readme",
+  "homepage": "https://github.com/yuriy-baranov/prime-number-generator#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0"
